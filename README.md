@@ -6,4 +6,5 @@ git status
 git add README.md
 git add .
 git status
+git add .
 git commit -m "Создал README.md + добавил в него команды которыми пользовался"
